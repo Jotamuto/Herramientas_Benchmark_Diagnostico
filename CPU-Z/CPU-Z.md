@@ -18,6 +18,7 @@ Elegimos la versión que corresponda con nuestro sistema y la descargamos, nos d
 <br>
 
 Una vez descargada, ejecutamos el instalador, aceptamos términos, elegimos ubicación para la instalación y continuamos hasta que se complete la instalación.
+
 ![](assets/20250405_192730_3.png)
 <br>
 Y veremos en nuestro escritorio un acceso directo a la apliación.
