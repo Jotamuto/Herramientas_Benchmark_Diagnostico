@@ -21,6 +21,7 @@ Una vez descargada, ejecutamos el instalador, aceptamos términos, elegimos ubic
 
 ![](assets/20250405_192730_3.png)
 <br>
+<br>
 Y veremos en nuestro escritorio un acceso directo a la apliación.
 
 ![](assets/20250405_192752_4.png)
